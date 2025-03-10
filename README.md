@@ -2,7 +2,7 @@ Mobile developer | React Native
 ------------------------
 
 *   🌍  Based in Poland
-*   👨🏻‍💻  Used to React Native [TypeScript] + Swift
+*   👨🏻‍💻  Used to React Native [TypeScript]
 
 ### Core Skills
 <p align="left">
